@@ -50,7 +50,7 @@ if(false):
 elseif (true):
    echo 'Who are you';
 else:
-   ehco 'Bye';
+   echo 'Bye';
 endif;
 
 
