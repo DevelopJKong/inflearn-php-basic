@@ -29,3 +29,5 @@ $hash = password_hash('Hello, world',PASSWORD_DEFAULT,[
 ]);
 
 $options = [ 'cost',11 ];
+
+var_dump(password_needs_rehash($hash,PASSWORD_DEFAULT,$options));
