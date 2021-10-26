@@ -47,7 +47,3 @@ usort($numbers,function($a,$b) {
 });
 
 var_dump($numbers);
-
-
-
-
