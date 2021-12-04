@@ -1,5 +1,5 @@
 <?php
-//docs.php.net/manual/en/book.pcre.php
+//http://docs.php.net/manual/en/book.pcre.php
 
 /**
  * String Match (Regex)
